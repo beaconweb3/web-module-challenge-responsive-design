@@ -24,9 +24,9 @@ In this challenge you will refactor your personal portfolio code to make it resp
 
 New features of a project should occur in a new branch in the same repository. Follow these steps to set up and work on your repo from Wednesday:
 
-- [ ] DO NOT FORK OR CLONE THIS REPOSITORY; YOU WILL WORK OUT OF YESTERDAY'S AGAIN.
-- [ ] cd into your repository on the command line and use code . to open VS Code.
-- [ ] Create a branch called `firstName-lastName-responsive`.
+- [x] DO NOT FORK OR CLONE THIS REPOSITORY; YOU WILL WORK OUT OF YESTERDAY'S AGAIN.
+- [x] cd into your repository on the command line and use code . to open VS Code.
+- [x] Create a branch called `firstName-lastName-responsive`.
 - [ ] Make an initial push after you complete your HTML structure, then make a Pull Request onto the main branch of *YOUR* repository (not BloomTech's).
 - [ ] Go into Canvas and connect your repository by copy-pasting its Pull Request URL into the submission slot.
 - [ ] Download the Live Server extension from the Extensions tab on the left side of your VS Code. After it is done installing, click "Go Live" on the bottom right side of your screen to run your HTML file.
@@ -36,10 +36,10 @@ New features of a project should occur in a new branch in the same repository. F
 
 Use the checklist below to guide your work today. Your final product should be presentable at mobile, tablet and a desktop-width.
 
-- [ ] Insert a viewport meta tag into the head of the project with these html attributes: content="width=device-width, initial-scale=1"
-- [ ] Introduce max-width media queries into your project at 800px and 500px
-- [ ] Add accessability features to your webpage
-- [ ] Design should closely follow the [mobile wireframe](Wireframes/) given for your chosen layout
+- [X] Insert a viewport meta tag into the head of the project with these html attributes: content="width=device-width, initial-scale=1"
+- [X] Introduce max-width media queries into your project at 800px and 500px
+- [X] Add accessability features to your webpage
+- [X] Design should closely follow the [mobile wireframe](Wireframes/) given for your chosen layout
 
 
 ### Task 3: Stretch Goals
